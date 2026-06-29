@@ -1,0 +1,3 @@
+103,Pentaden,Hexaden,True
+101,aiden,biden,True
+102,triden,quadraden,False
