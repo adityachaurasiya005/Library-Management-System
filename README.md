@@ -67,4 +67,6 @@ python library.py
 
 ---
 
-Made with ❤️ by Aditya Chaurasiya
+## Author
+
+Aditya Chaurasiya
